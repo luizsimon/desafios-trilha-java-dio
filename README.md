@@ -1,1 +1,1 @@
-# desafios-trilha-java-dio
+# Repositório para os desafios da trilha java DIO
